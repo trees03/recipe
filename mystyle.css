@@ -1,0 +1,32 @@
+body {
+    background-color: #FFFDD0;
+  }
+  
+  h1 {
+    color: #FDB0C0;
+    text-align: center;
+  }
+  h2 {
+    color: #ff9770 ;
+    text-align: left;
+  }
+  a:link {
+    background-color: #d7e3fc ;
+    color: #ff686b;
+    padding: 2px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  a:visited {
+    background-color: #abc4ff;
+    color:#ff686b ;
+    padding: 2px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #cdb4db ;
+  }
